@@ -9,7 +9,7 @@ In this space, you can find repositories that contain various projects I have wo
     * Microsoft Excel/Google Sheets <img src="{https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white}" />,
     * SQL <img src="{https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white}" />,
     * Tableau <img src="{https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white}" />,
-    * Python <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" /> (<img src="{https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white}" />, <img src="{https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white}" />, <img src="{https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white}" />, <img src="{https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white}" /> ),
+    * Python <img src="{https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue}" /> ,
     * R <img src="{https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white}" /> / <img src="{https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white}" <br>
 * 💪🏻 Strengths: communication, attention to detail, critical thinking, collaboration<br>
 * 🧮 I have a background in mathematics and statistics<br>
@@ -29,4 +29,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+(<img src="{https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white}" />, <img src="{https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white}" />, <img src="{https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white}" />, <img src="{https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white}" /> )
 -->
