@@ -6,7 +6,7 @@ In this space, you can find repositories that contain various projects I have wo
 ### Who is this guy?<br>
 * 📚 Data Analytics bootcamp student (Juno College)<br>
 * 🛠 Tech Stack:
-    * Microsoft Excel/Google Sheets <img src="{https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white}" /> <br>
+    * Microsoft Excel/Google Sheets ![image]({https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white}) <br>
     * SQL <br>
     * Tableau <br>
     * Python <br>
