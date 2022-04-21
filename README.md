@@ -1,7 +1,9 @@
 # Heyo! ✌🏼
 ## I'm Taylor (he/him), a Data Analyst
 
-In this space, you can find repositories that contain various projects I have worked on using an array of analytics tools. Check 'em out!
+In this space, you can find repositories that contain various projects I have worked on using an array of analytics tools.
+
+Check 'em out!
 
 ### Who is this guy?<br>
 * 📚 Data Analytics bootcamp student (Juno College)<br>
