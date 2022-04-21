@@ -7,10 +7,10 @@ In this space, you can find repositories that contain various projects I have wo
 * 📚 Data Analytics bootcamp student (Juno College)<br>
 * 🛠 Tech Stack:
     * Microsoft Excel/Google Sheets ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <br>
-    * SQL <br>
-    * Tableau <br>
-    * Python <br>
-    * R <br>
+    * SQL ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
+    * Tableau ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) <br>
+    * Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
+    * R ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) <br>
 * 💪🏻 Strengths: communication, attention to detail, critical thinking, collaboration<br>
 * 🧮 I have a background in mathematics and statistics<br>
 
