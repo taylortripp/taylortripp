@@ -4,11 +4,11 @@ My name's Taylor and I'm an enthusiastic data analyst with a passion for problem
 
 In this space, you can find repositories that contain various projects I have worked on using Sheets, SQL (BigQuery), Tableau, and Python. Check 'em out!
 
-## A bit more about me:
-📚 Data Analytics bootcamp student (Juno College)
-💾 Tech Stack: Microsoft Excel/Google Sheets, SQL, Tableau, Python, and R
-👔 Strengths: communication, attention to detail, critical thinking, collaboration
-🏃🏼 Unrelated: If I'm not sifting through data, I'm [hopefully] out running!
+## A bit more about me:<br>
+* 📚 Data Analytics bootcamp student (Juno College)<br>
+* 💾 Tech Stack: Microsoft Excel/Google Sheets, SQL, Tableau, Python, and R<br>
+* 👔 Strengths: communication, attention to detail, critical thinking, collaboration<br>
+* 🏃🏼 Unrelated: If I'm not sifting through data, I'm [hopefully] out running!<br>
 <!--
 **taylortripp/taylortripp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
