@@ -14,7 +14,6 @@ In this space, you can find repositories that contain various projects I have wo
 * 💪🏻 Strengths: communication, attention to detail, critical thinking, collaboration<br>
 * 🧮 I have a background in mathematics and statistics<br>
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=#3776AB&logoColor=white&color=2bbc8a)
 
 <!--
 **taylortripp/taylortripp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
