@@ -6,6 +6,7 @@ In this space, you can find repositories that contain various projects I have wo
 Check 'em out!
 
 ### Who is this guy?<br>
+* 🩺 Currently working on: ***Breast cancer tumour classification model***
 * 📚 Data Analytics bootcamp student (Juno College)<br>
 * 🛠 Tech Stack:
     * ![Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) / ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) Google Sheets/Microsoft Excel<br>
@@ -14,7 +15,7 @@ Check 'em out!
     * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) Python<br>
     * ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) R<br>
 * 💪🏻 Strengths: communication, attention to detail, critical thinking, collaboration<br>
-* 🧮 I have a background in mathematics and statistics<br>
+* 🧮 Background in mathematics and statistics<br>
 
 
 <!--
