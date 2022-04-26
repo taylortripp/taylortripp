@@ -13,8 +13,9 @@ Check 'em out!
 * 💪🏻 Strengths: attention to detail, communication, collaboration, critical thinking<br>
 * 🧮 Background in mathematics and statistics<br>
 
+**** 
 
-Feel free to reach out! ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+Feel free to reach out!   <a href="mailto:taylorgtripp@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <!--
 **taylortripp/taylortripp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
