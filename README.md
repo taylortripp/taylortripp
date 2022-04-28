@@ -1,12 +1,11 @@
-# Heyo! ✌🏼
-## I'm Taylor (he/him), a Data Analyst
+# Heyo! ✌🏼  I'm Taylor (he/him), a Data Analyst
 
 In this space, you can find repositories that contain various projects I have worked on using an array of analytics tools.
 
 Check 'em out!
 
 ### Who is this guy?<br>
-* 🩺 Currently working on: ***Breast cancer tumour classification model***
+* 🩺 Recently completed: ***Breast cancer tumour classification model***
 * 📚 Data Analytics bootcamp student (Juno College)<br>
 * 🛠 Tech Stack:
  
