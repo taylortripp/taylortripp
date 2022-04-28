@@ -3,7 +3,7 @@
 In this space, you can find repositories that contain projects that I have worked on using various analytics tools. Check 'em out!
 
 ### Who is this guy?<br>
-* 🩺 Recently completed: ***Breast cancer tumour classification model***
+* 🩺 Recently completed: [***Breast cancer tumour classification model***](https://github.com/taylortripp/breast-cancer-tumour-prediction)
 * 📚 Data Analytics bootcamp student (Juno College)<br>
 * 🛠 Tech Stack:
  
