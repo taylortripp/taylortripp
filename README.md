@@ -4,7 +4,7 @@ In this space, you can find repositories that contain projects that I have worke
 
 ### Who is this guy?<br>
 * 🩺 Recently completed: [***Breast cancer tumour classification model***](https://github.com/taylortripp/breast-cancer-tumour-prediction)
-* 📚 Data Analytics bootcamp student ([Juno College](https://github.com/HackerYou))<br>
+* 📚 Data Analyst @ ([Jebbit](https://github.com/jebbit))<br>
 * 💪🏻 Strengths: attention to detail, communication, collaboration, critical thinking<br>
 * 🧮 Background in mathematics and statistics<br>
 * 🛠 Tech Stack:
