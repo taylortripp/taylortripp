@@ -4,7 +4,7 @@ In this space, you can find repositories that contain projects that I have worke
 
 ### Who is this guy?<br>
 * 🩺 Recently completed: [***Breast cancer tumour classification model***](https://github.com/taylortripp/breast-cancer-tumour-prediction)
-* 🌎 Data analyst looking to contribute positively to the world
+* 🌎 Data analyst motivated by social good
 * 💪🏻 Strengths: attention to detail, communication, collaboration, critical thinking<br>
 * 🧮 Background in mathematics and statistics<br>
 * 🛠 Tech Stack:
